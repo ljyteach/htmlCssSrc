@@ -1,0 +1,77 @@
+Aptana | Contribute search PRODUCTSSUPPORTNEWSCONTRIBUTEAptana  Contribute
+Aptana believes that open source development leads to more innovation and higher 
+quality code. The core product from Aptana, Studio, and its various components 
+are available under open source licenses. Browse through the variety of projects 
+we have hosted on Github. We welcome your participation and contributions to any 
+of these source code repositories.  
+  Studio 3 Core
+  This repository contains the code for the core features of Studio 3
+  Studio 3 RCP
+  This repository contains the code for the wrapping and packaging of Eclipse as 
+  Aptana Studio 3
+  Studio 3 PHP
+  This repository contains code for Ruby and Rails support in Aptana Studio 3
+   
+  Studio 3 Ruby
+  This repository contains code for Ruby and Rails support in Aptana Studio 3
+   
+  PyDev
+  This repository is for PyDev, an IDE supporting Python and Django apps
+  Studio 3 Rubles
+  These repositories are for rubles, the extension mechanism for Studio 3. 
+  Review the Rubles Programming Guide for more infoAptana Studio 2
+  This repository contains code for Aptana Studio 2
+  Studio 2 RCP
+  This repository contains the code for the wrapping and packaging of Eclipse as 
+  Aptana Studio 2
+  RadRails
+  This repository contains the code for RadRails 2
+  RDT
+  This repository contains the code for the Ruby Development Tools (rdt)
+   
+  Jaxer
+  This repository is for Jaxer, a JavaScript-based server. See the Jaxer website 
+  for more info.
+  jaxer.org website
+  This repository is for the jaxer.org website
+   
+  ActiveJS
+  This repository is for ActiveJS, a JavaScript framework for client-side data 
+  access. See the ActiveJS website for more info.jsdrawing
+  This repository contains code for a JavaScript library used to draw vector 
+  graphics in a variety of formats
+  sdocgen
+  This repository contains the code for a JavaScript document generator
+  Secure FTP
+  This repository contains the core features and plugins for SecureFTP support
+  Libraries_com
+  This repository contains the core features and plugins for the Subscription 
+  libraries
+  xulrunner
+  This repository contains the code for xulrunner Eclipse feature
+  frameworks
+  This repository contains the AJAX framework libraries features and plugins of 
+  Aptana Studio
+   
+  Aflax
+  Aflax is a JavaScript library that enables developers to utilize nearly all of 
+  the features of the Adobe Flash platform from JavaScript RECENT 
+  COMMITS[studio3] http://t.co/THSMr1G Shalom Gibly - Add a Portal test for a 
+  URL th...   7h 
+  [studio3] http://t.co/nI0qaTk Ingo Muschenetz - Merge branch 'development' ... 
+    8h 
+  [studio3] http://t.co/NIOOKqH Shalom Gibly - Portal - Don't do a network ch... 
+    8h 
+  [studio3-php] http://t.co/rveD140 Max Stepanov - optimize PHP partition...   
+  9h 
+  [studio3-php] http://t.co/eNCMJRN Shalom Gibly - Fixed APSTUD-3428 - Ad...   
+  10h 
+  [studio3-php] http://t.co/grZVpHU Shalom Gibly - Fixed APSTUD-3428 - Ad...   
+  10h 
+  [studio3-php] http://t.co/U9wKgKL Max Stepanov - [APSTUD-3378] make PHP...   
+  10h 
+  [studio3] http://t.co/u9zLFjq mxia - Fixed APSTUD-3414: stored just the fil... 
+    11h 
+  MORE ON TWITTER
+Download Aptana Studio 
+  COMPANYPRIVACYLEGALTWITTERFACEBOOKCopyright © 2005 – 2011 Appcelerator, Inc. 

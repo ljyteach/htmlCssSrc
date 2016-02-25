@@ -1,0 +1,34 @@
+Aptana | Support search PRODUCTSSUPPORTNEWSCONTRIBUTEAptana    Support
+Aptana Studio 3
+The free, open-source IDE with support for the latest tools and web standards.
+  Browse Discussions
+  The active community around Aptana Studio discusses a wide variety of getting 
+  started and configuration topics. 
+  View Documentation
+  Aptana Studio documentation. 
+  Bug Tracker
+  Found a bug? Use our bug tracker to see the list of open and closed bugs as 
+  well as submit new tickets. 
+Titanium Studio
+If you would like an IDE with the latest mobile development tools for iOS, 
+Androis and BlackBerry applications, or want a dedicated support team for 
+questions, check out Titanium Studio. 
+  Browse Discussions
+  Get fast responses to Titanium Studio questions and support from the larger 
+  Appcelerator community. 
+  View Documentation
+  Titanium Studio documentation. 
+Other Products
+  PyDev
+  Website
+  Blog
+  User Forums
+  Mailing Lists and Discussions
+  Bug Tracker
+  Jaxer
+  Website
+  ActiveJS
+  Website
+  Bug Tracker
+Download Aptana Studio 
+  COMPANYPRIVACYLEGALTWITTERFACEBOOKCopyright © 2005 – 2011 Appcelerator, Inc. 

@@ -1,0 +1,31 @@
+Aptana search PRODUCTSSUPPORTNEWSCONTRIBUTEAptana  Aptana Studio 3
+The world’s most powerful open-source web development IDE just got better. 
+Rebuilt from the ground-up. It's now much faster, customizable and includes new 
+features to help you be more productive. Learn more. 
+Download Aptana Studio 3 
+6 1 4 5 0 9 5 Aptana Acquired by Appcelerator
+Cloud-connected mobile opportunity expands to 1.5M developers worldwide. Learn 
+more.   Build web applications quickly and easily using the industry’s leading 
+web application IDE. Aptana Studio harnesses the flexibility of Eclipse and 
+focuses it into a powerful web development engine. 
+APTANA ON TWITTER9h Aptana: @folbert You're welcome!   
+  9h Aptana: @normyee Any reason it seems to be crashing? What OS?   
+  9h Aptana: @limetwitt Can you try updating to 3.0.5 (beta)...that may fix your 
+  issue.   
+  8d Aptana: @fishbar Known issue in 3.0.4, update to 3.0.5 beta for fix: 
+  http://t.co/IUBUfub   
+  8d Aptana: @bdsexton It's a legacy of trying to get around permission issues 
+  on Windows. We hope to fix that.   
+  9d Aptana: @snarfblat log looks fine; could you email us the content in About 
+  > Installation Details > Configuration?   
+MORE ON TWITTERDevelopers Wanted
+Aptana Studio 3 expands on the core capabilities of Aptana Studio 2 for 
+building, editing, previewing and debugging HTML, CSS and JavaScript websites 
+with PHP and Ruby on Rails web development. Download now. 
+ 
+Titanium helps you build native mobile apps for iOS, Android and Blackberry. Try 
+It Now  
+Aptana Acquired by Appcelerator
+Cloud-connected mobile opportunity expands to 1.5M developers worldwide.Learn 
+More Download Aptana Studio 
+  COMPANYPRIVACYLEGALTWITTERFACEBOOKCopyright © 2005 – 2011 Appcelerator, Inc. 

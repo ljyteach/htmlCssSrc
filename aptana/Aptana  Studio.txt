@@ -1,0 +1,58 @@
+Aptana | Studio search PRODUCTSSUPPORTNEWSCONTRIBUTEAptana STUDIO 3 RADRAILS 
+  DOWNLOADS RELEASE NOTES  Download Aptana Studio 3 
+Release NotesAptana Studio 3
+The professional, open source development tool for the open web
+It's ready. It's time. Develop and test your entire web application using a 
+single environment. With support for the latest browser technology specs such as 
+HTML5, CSS3, JavaScript, Ruby, Rails, PHP and Python. We've got you covered! 
+Core Features
+HTML, CSS, and JavaScript Code AssistAids in authoring of HTML, CSS, JavaScript, 
+PHP, and Ruby. Supports the latest HTML5 specifications. Includes information 
+about the level of support for each element in the major web browsers.  Code 
+AssistAids in authoring of HTML, CSS, JavaScript, PHP, and Ruby. Supports the 
+latest HTML5 specifications. Includes information about the level of support for 
+each element in the major web browsers. 
+Deployment WizardSupport for one-shot as well as keep-synchronized setups. 
+Multiple protocols including FTP, SFTP, FTPS and Capistrano. Ability to 
+automatically publish your Ruby & Rails applications to hosting services such as 
+Heroku and Engine Yard.  Deployment WizardSupport for one-shot as well as 
+keep-synchronized setups. Multiple protocols including FTP, SFTP, FTPS and 
+Capistrano. Ability to automatically publish your Ruby & Rails applications to 
+Heroku or to Engine Yard Cloud. 
+Integrated DebuggerSet breakpoints, inspect variables, control execution. The 
+integrated Ruby & Rails debugger helps you squash those bugs. (JavaScript 
+debugging coming soon.)  Integrated DebuggerSet breakpoints, inspect variables, 
+control execution. The integrated Ruby & Rails debugger helps you squash those 
+bugs. (JavaScript debugging coming soon.) 
+Git IntegrationEasily put your projects under git source code control. 
+Collaborate with team members thru merge, pull and push actions to remote 
+repositories such those hosted on Github. Facilitates git-based deployments.  
+Git IntegrationEasily put your projects under git source code control. 
+Collaborate with team members thru merge, pull and push actions to remote 
+repositories such those hosted on Github or other locations. Includes 
+capabilities to locally stash changes to facilitate merges. Facilitates 
+git-based deployments. 
+Built-in TerminalQuickly access a command line terminal for execution of 
+operating system commands and language utilities such as gem, rake, etc.  
+Built-in TerminalQuickly access a command line terminal for execution of 
+operating system commands and language utilities such as gem, rake, etc. 
+IDE CustomizationSetup your development environment exactly the way you want it 
+by extending the core capabilities through scripting of custom commands. Studio 
+ships with hundreds of commands but always presents them in context based on the 
+type of file you are editing.  IDE CustomizationSetup your development 
+environment exactly the way you want it by extending the core capabilities 
+through scripting of custom commands. Studio ships with hundreds of commands but 
+always presents them in context based on the type of file you are editing. “The 
+more I work, the more I use @Aptana Studio for my Rails dev. Why? Because moving 
+from Windows (work) to Mac (home/consulting) is easy.” 
+@JohnMetta, Hood River, Oregon
+“Very cool, very responsive -- much improved! Check it out!” 
+@socializedbiz, Orange County, CA
+“Aptana 3 and it's support for Rails is freaking awesome” 
+@by_season, Barcelona, Spain
+ 
+On-demand deployment and management of your Ruby on Rails applications with 
+Engine Yard Cloud. 
+Rock-solid Ruby platform. Deploy and scale with confidence. Free to Signup       
+loading..Download Aptana Studio 
+  COMPANYPRIVACYLEGALTWITTERFACEBOOKCopyright © 2005 – 2011 Appcelerator, Inc. 

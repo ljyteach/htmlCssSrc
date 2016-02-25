@@ -1,0 +1,138 @@
+Aptana | News search PRODUCTSSUPPORTNEWSCONTRIBUTEAptana  News
+  NEWS 25 Aug 2011 3.0.5 now available in the beta stream 
+  (http://aptana.com/r/apupdate). Notes her...3.0.5 now available in the beta 
+  stream (http://aptana.com/r/apupdate). Notes here: NEWS 15 Aug 2011 
+  Aptana Studio 3.0.4 released. 170+ fixes/features. Read: 
+  http://appcel.us/apsnot...Aptana Studio 3.0.4 released. 170+ fixes/features. 
+  Read: http://appcel.us/apsnotes. Download: NEWS 2 Aug 2011 
+  3.0.4 now available in the beta stream (aptana.com/r/apupdate). ~170+ 
+  fixes/feat...3.0.4 now available in the beta stream (aptana.com/r/apupdate). 
+  ~170+ fixes/features. Notes here: NEWS 18 Jul 2011 
+  Aptana Studio 3.0.3 released. 210+ fixes designed to upgrade and improve 
+  issues...Aptana Studio 3.0.3 released.
+
+  210+ fixes designed to upgrade and improve issues in the editing experience. 
+  New formatting options (like controlling whitespace), @ rules in the CSS 
+  outline, content assist refinements, indexing improvements, and refinements to 
+  key bindings for commands...
+
+
+  AUTHOR: Aptana, Inc.NEWS 15 Jul 2011 3.0.3 now available in the beta stream 
+  (aptana.com/r/apupdate). ~210+ fixes/feat...3.0.3 now available in the beta 
+  stream (aptana.com/r/apupdate). ~210+ fixes/features. Notes here: NEWS 13 Jul 
+  2011 
+  Studio 2 User? Studio 3 is out (3.0.2, in fact) and even better. When 
+  upgrading,...Studio 2 User? Studio 3 is out (3.0.2, in fact) and even better. 
+  When upgrading, check out this guide: 
+
+  AUTHOR: Aptana, Inc.NEWS 17 Feb 2011 New Aptana Studio 3.0 Preview: JavaScript 
+  Debugging! Release Notes: http://bit.l...New Aptana Studio 3.0 Preview: 
+  JavaScript Debugging! Release Notes: http://bit.ly/bhX9Xr Download:NEWS 19 Jan 
+  2011 
+  The Appcelerator/Aptana Webcast is about to start. Please register here: 
+  http://...The Appcelerator/Aptana Webcast is about to start. Please register 
+  here: http://bit.ly/etas4R
+
+
+  AUTHOR: Aptana, Inc.NEWS 18 Jan 2011 If you love us go give 
+  http://facebook.com/appcelerator a like.If you love us go give 
+  http://facebook.com/appcelerator a like.
+
+
+  AUTHOR: Aptana, Inc.NEWS 18 Jan 2011 A great day for devs! Appcelerator 
+  acquires Aptana. Over 1.5 million devs strong...A great day for devs! 
+  Appcelerator acquires Aptana. Over 1.5 million devs strong. Joint IDE coming 
+  in March. http://bit.ly/ece5KL
+
+
+  AUTHOR: Aptana, Inc.NEWS 10 Nov 2010 Aptana Studio 3.0 beta update: 80 bug 
+  fixes. Gotta catch 'em all! Release Notes...Aptana Studio 3.0 beta update: 80 
+  bug fixes. Gotta catch 'em all! Release Notes: http://bit.ly/bhX9Xr Download:
+
+  AUTHOR: Aptana, Inc.NEWS 23 Sep 2010 New Studio 3 beta released. Adds initial 
+  @chromiumbrowser support. Download: htt...New Studio 3 beta released. Adds 
+  initial @chromiumbrowser support. Download: http://bit.ly/bxv4YC Release 
+  Notes: 
+
+  AUTHOR: Aptana, Inc.NEWS 1 Sep 2010 New @Aptana Studio 3 beta release out (bug 
+  fixes, mostly). Download: http://bit...New @Aptana Studio 3 beta release out 
+  (bug fixes, mostly). Download: http://bit.ly/bxv4YC Release Notes: NEWS 19 Aug 
+  2010 
+  New @Aptana Studio 3 release with new icons from @Iconfactory, updated Pydev, 
+  @w...New @Aptana Studio 3 release with new icons from @Iconfactory, updated 
+  Pydev, @wordpress, mercurial, and bug fixes: http://t.co/KYKMYpu
+
+
+  AUTHOR: Aptana, Inc.NEWS 6 Aug 2010 Having trouble updating from the 7/21 
+  Studio 3 beta on your mac? See http://bit....Having trouble updating from the 
+  7/21 Studio 3 beta on your mac? See http://bit.ly/9W1Azt
+
+
+  AUTHOR: Aptana, Inc.NEWS 4 Aug 2010 New release of @Aptana Studio 3 Beta, 
+  includes @EYCloud CLI support. Download: h...New release of @Aptana Studio 3 
+  Beta, includes @EYCloud CLI support. Download: http://bit.ly/bxv4YC Release 
+  Notes: 
+
+  AUTHOR: Aptana, Inc.NEWS 21 Jul 2010 Aptana Studio 3.0 beta update: 
+  JS/PHP/Ruby code assist, Helios based. Release No...Aptana Studio 3.0 beta 
+  update: JS/PHP/Ruby code assist, Helios based. Release Notes: 
+  http://bit.ly/bhX9Xr Download: 
+
+  AUTHOR: Aptana, Inc.NEWS 29 Jun 2010 There's a phishing attack going around 
+  asking to reset your password. If you see...There's a phishing attack going 
+  around asking to reset your password. If you see one from @aptana or anyone 
+  else, ignore it, it's bogus.
+
+
+  AUTHOR: Aptana, Inc.NEWS 23 Jun 2010 New beta release of @Aptana Studio 3. 
+  More PHP, more FTP, and more. Download: ht...New beta release of @Aptana 
+  Studio 3. More PHP, more FTP, and more. Download: http://bit.ly/afk4Lr Release 
+  notes: 
+
+  AUTHOR: Aptana, Inc.NEWS 23 Jun 2010 Aptana Studio has been downloaded over 
+  5.3 million times so far! Over 150k new d...Aptana Studio has been downloaded 
+  over 5.3 million times so far! Over 150k new developers each month. Thanks 
+  everyone! http://aptana.com/
+
+
+  AUTHOR: Aptana, Inc.NEWS 23 Jun 2010 We're a permanent fixture on Google maps! 
+  Cool. http://yfrog.com/2gd52cj http:/...We're a permanent fixture on Google 
+  maps! Cool. http://yfrog.com/2gd52cj NEWS 7 Jun 2010 
+  We're at RailsConf! Tweet to meet. Check out Studio 3 and the cool new rails 
+  fea...We're at RailsConf! Tweet to meet. Check out Studio 3 and the cool new 
+  rails features: http://radrails.org/3 #railsconf
+
+
+  AUTHOR: Aptana, Inc.NEWS 21 May 2010 Try our new basic support for the new 
+  @Google TypeKit WebFont stuff in @Aptana S...Try our new basic support for the 
+  new @Google TypeKit WebFont stuff in @Aptana Studio 3: 
+  http://github.com/aptana/WebFont.ruble
+
+
+  AUTHOR: Aptana, Inc.NEWS 13 May 2010 New @Aptana Studio 3 beta: Heroku 
+  support, Git, FTP, HTML5, and more. Download:...New @Aptana Studio 3 beta: 
+  Heroku support, Git, FTP, HTML5, and more. Download: http://bit.ly/bD0NuL 
+  Release Notes: 
+
+  AUTHOR: Aptana, Inc.Follow Us
+Facebook
+ Twitter
+ 
+Rss
+ 
+TWITTER ACTIVITYAptana: @folbert You're welcome!   9h 
+  Aptana: @normyee Any reason it seems to be crashing? What OS?   9h 
+  Aptana: @limetwitt Can you try updating to 3.0.5 (beta)...that may fix your 
+  issue.   9h 
+  Aptana: @fishbar Known issue in 3.0.4, update to 3.0.5 beta for fix: 
+  http://t.co/IUBUfub   8d 
+  Aptana: @bdsexton It's a legacy of trying to get around permission issues on 
+  Windows. We hope to fix that.   8d 
+  Aptana: @snarfblat log looks fine; could you email us the content in About > 
+  Installation Details > Configuration?   9d 
+  Aptana: @jdarias That makes sense. We'll update the instructions to remind 
+  people to do that if they have a similar situation.   9d 
+  Aptana: @snarfblat Sure. info at aptana.com   9d 
+  Aptana: @snarfblat Ah, here: http://t.co/il0fgTm   9d 
+Download Aptana Studio 
+  COMPANYPRIVACYLEGALTWITTERFACEBOOKCopyright © 2005 – 2011 Appcelerator, Inc. 
